@@ -1,0 +1,24 @@
+# LangChain
+langchain
+langchain-text-splitters
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-chroma
+
+# Vector Database
+chromadb
+
+# PDF Loader
+pypdf
+
+# Embedding Models
+sentence-transformers
+torch
+
+# Web UI
+streamlit
+
+# Environment Variables
+python-dotenv
